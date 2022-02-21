@@ -1,3 +1,4 @@
-# vicente matus' thesis scripts
+#Vicente Matus, Ph.D. Thesis
 
-Thesis document link will be included when published by ULPGC
+
+Thesis document link: http://hdl.handle.net/10553/113638
