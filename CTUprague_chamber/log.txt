@@ -1,0 +1,47 @@
+This is RaspiCamera Capture Maker v0.000000001 by V. Matus (vmatus@idetic.eu)
+You are about to make a capture!! Please type a name for it and hit [ENTER]: 
+OK. Name chosen is . Note I will add labels in the final name of videos and photos taken.
+Lights, Camera, Action!! (Runing the command)
+Ready!
+Bye :)
+This is RaspiCamera Capture Maker v0.000000001 by V. Matus (vmatus@idetic.eu)
+You are about to make a capture!! Please type a name for it and hit [ENTER]: 
+OK. Name chosen is asdf. Note I will add labels in the final name of videos and photos taken.
+Lights, Camera, Action!! (Runing the command)
+make_cap.sh: line 26: raspivid: command not found
+make_cap.sh: line 28: raspistill: command not found
+make_cap.sh: line 32: raspivid: command not found
+make_cap.sh: line 34: raspistill: command not found
+make_cap.sh: line 38: raspivid: command not found
+make_cap.sh: line 40: raspistill: command not found
+make_cap.sh: line 44: raspivid: command not found
+make_cap.sh: line 46: raspistill: command not found
+make_cap.sh: line 50: raspivid: command not found
+make_cap.sh: line 52: raspistill: command not found
+Ready!
+Bye :)
+This is RaspiCamera Capture Maker v0.000000001 by V. Matus (vmatus@idetic.eu)
+You are about to make a capture!! Please type a name for it and hit [ENTER]: 
+2019-06-14 20:44:10
+OK. Name chosen is . Note I will add labels in the final name of videos and photos taken.
+Lights, Camera, Action!! (Runing the command)
+2019-06-14 20:44:10
+make_cap.sh: line 31: raspivid: command not found
+make_cap.sh: line 33: raspistill: command not found
+2019-06-14 20:44:10
+make_cap.sh: line 38: raspivid: command not found
+make_cap.sh: line 40: raspistill: command not found
+2019-06-14 20:44:10
+make_cap.sh: line 45: raspivid: command not found
+make_cap.sh: line 47: raspistill: command not found
+2019-06-14 20:44:10
+make_cap.sh: line 52: raspivid: command not found
+make_cap.sh: line 54: raspistill: command not found
+2019-06-14 20:44:10
+make_cap.sh: line 59: raspivid: command not found
+make_cap.sh: line 61: raspistill: command not found
+2019-06-14 20:44:10
+Ready!
+2019-06-14 20:44:10
+2019-06-14 20:44:10
+Bye :)
