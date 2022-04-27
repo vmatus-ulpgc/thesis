@@ -9,7 +9,7 @@ import cv2
 import numpy as np 
 import os 
 
-main_path = 'Captures_2019_06_15/'
+main_path = ''#'Captures_2019_06_15/'
 path = main_path + 'Captures_2019_06_15_orange/'
 filenames = os.listdir(path)
 header = 'fog_2019_06_15_'
