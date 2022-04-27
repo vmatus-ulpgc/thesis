@@ -1,3 +1,7 @@
+/*
+  arduino (uno/nano/mega...) code for low speed visible light communication transmitter
+  by: victor guerra and vicente matus
+*/
 Add#include "LowPower.h"
 #include <OneWire.h>
 #include <DallasTemperature.h>
