@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 11 10:05:33 2020
 
-@author: vmatus
+@authors: vmatus, vguerra, cjurado
 """
 
 from __future__ import print_function
